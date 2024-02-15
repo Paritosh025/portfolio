@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, MATLAB
 
 ## Education
-- B.Tech., Computer Science and Engineering | Indian Institute of Information Technology, Una (_May 2024_)								       		
+B.Tech., Computer Science and Engineering | Indian Institute of Information Technology, Una (_May 2024_)								       		
 
 ## Internship
 **Project Intern IIT Patna (_January 2023 - May 2023_)**
