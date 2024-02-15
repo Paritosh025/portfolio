@@ -1,6 +1,6 @@
 # Data Science Enthusiast
 
-#### Technical Skills: 
+#### Technical Skills: Python, SQL, MATLAB
 
 ## Education
 - B.Tech., Computer Science and Engineering | Indian Institute of Information Technology, Una (_May 2024_)								       		
